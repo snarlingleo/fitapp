@@ -2,7 +2,7 @@
   "name": "FitApp",
   "short_name": "FitApp",
   "description": "Ton coach fitness personnel — 5 programmes adaptés",
-  "start_url": "./index.html",
+  "start_url": "/fitapp/",
   "display": "standalone",
   "background_color": "#09092d",
   "theme_color": "#4b4bf9",
